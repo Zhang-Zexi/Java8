@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import java.util.List;
 
-public class Version1Test {
+public class VersionOneTest {
 
     @Test
     public void filterElectronicsSkus() {
