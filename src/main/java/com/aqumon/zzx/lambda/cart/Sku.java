@@ -1,7 +1,7 @@
 package com.aqumon.zzx.lambda.cart;
 
 /**
- * 下单商品信息对象
+ * 购物商品类
  */
 public class Sku {
     // 编号
