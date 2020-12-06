@@ -8,15 +8,15 @@ import java.util.List;
 public class VersionOneTest {
 
     @Test
-    public void filterElectronicsSkus() {
+    public void filterSkus() {
         List<Sku> cartSkuList = CartService.getCartSkuList();
 
-        // 查找购物车中数码类商品
-        List<Sku> result =
-                CartService.filterElectronicsSkus(cartSkuList);
+        // 过滤商品总价大于2000的商品
+        List<Sku> result = CartService.filterSkus(
+                cartSkuList, new SkuTotalPricePredicate());
 
-        System.out.println(
-                JSON.toJSONString(result, true));
+        System.out.println(JSON.toJSONString(
+                result, true));
     }
 
 }

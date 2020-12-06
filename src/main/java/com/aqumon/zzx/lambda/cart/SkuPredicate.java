@@ -3,6 +3,7 @@ package com.aqumon.zzx.lambda.cart;
 /**
  * Sku选择谓词接口
  */
+@FunctionalInterface
 public interface SkuPredicate {
 
     /**
@@ -12,4 +13,5 @@ public interface SkuPredicate {
      */
     boolean test(Sku sku);
 
+//    boolean test1(Sku sku);
 }
