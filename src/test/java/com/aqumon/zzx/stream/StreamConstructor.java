@@ -42,7 +42,8 @@ public class StreamConstructor {
     @Test
     public void streamFromFile() throws IOException {
         // TODO 此处替换为本地文件的地址全路径
-        String filePath = "";
+        String filePath = "D:\\02-DemoWorkSpace\\Java8\\src\\test\\java\\com\\aqumon\\zzx\\" +
+                "stream\\StreamConstructor.java";
 
         Stream<String> stream = Files.lines(
                 Paths.get(filePath));
@@ -56,8 +57,10 @@ public class StreamConstructor {
     @Test
     public void streamFromFunction() {
 
+//        1.迭代的方式生成流（初始值+生成方法）
 //        Stream stream = Stream.iterate(0, n -> n + 2);
 
+//        2.迭代器生成流（随机生成）
         Stream stream = Stream.generate(Math::random);
 
         stream.limit(100)

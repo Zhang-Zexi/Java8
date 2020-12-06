@@ -18,7 +18,8 @@ import java.util.stream.Collectors;
 public class StreamVs {
 
     /**
-     * 1 想看看购物车中都有什么商品
+     * 场景：
+     * 1 女朋友想看看购物车中都有什么商品
      * 2 图书类商品都给买
      * 3 其余的商品中买两件最贵的
      * 4 只需要两件商品的名称和总价

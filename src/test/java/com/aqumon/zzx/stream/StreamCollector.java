@@ -16,6 +16,8 @@ public class StreamCollector {
 
     /**
      * 集合收集器
+     *
+     * 将集合中的元素，收集为一个List返回
      */
     @Test
     public void toList() {
@@ -51,6 +53,8 @@ public class StreamCollector {
 
     /**
      * 分区
+     *
+     * 分为true的和false的
      */
     @Test
     public void partition() {
