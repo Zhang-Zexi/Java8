@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccb58c61-8e11-4735-8539-3593216a53ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/CartService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/Version2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/Version3Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/Version4Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/Version5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionTwoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/Version6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionThreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionOneTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,13 +42,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CartService" value="1" />
-          <entry key="java" value="109" />
+          <entry key="java" value="114" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="109" />
+          <entry key="JAVA" value="114" />
           <entry key="UML" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -84,24 +76,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/CartService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionThreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuBooksCategoryPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -111,19 +85,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionOneTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="86">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/MethodReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/file/FileServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="173">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="10" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JAVA/Java/jdk1.8.0_31/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5796">
+              <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -133,19 +146,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="258">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionTwoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="46" />
-              <folding>
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -208,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/cart/VersionThreeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuTotalPricePredicate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileService.java" />
       </list>
     </option>
   </component>
@@ -314,7 +315,7 @@
               <item name="aqumon" type="462c0819:PsiDirectoryNode" />
               <item name="zzx" type="462c0819:PsiDirectoryNode" />
               <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8" type="b2602c69:ProjectViewProjectNode" />
@@ -378,6 +379,18 @@
               <item name="zzx" type="462c0819:PsiDirectoryNode" />
               <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aqumon" type="462c0819:PsiDirectoryNode" />
+              <item name="zzx" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8" type="b2602c69:ProjectViewProjectNode" />
@@ -435,7 +448,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607252368468" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607254350479" />
     <property name="last_opened_file_path" value="D:/JAVA/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -465,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VersionOneTest.filterElectronicsSkus">
+  <component name="RunManager" selected="JUnit.FileServiceTest.fileHandle">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -520,17 +533,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Version1Test.filterElectronicsSkus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileServiceTest.fileHandle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aqumon.zzx.lambda.cart.*" />
+          <option name="PATTERN" value="com.aqumon.zzx.lambda.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aqumon.zzx.lambda.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.lambda.cart.Version1Test" />
-      <option name="METHOD_NAME" value="filterElectronicsSkus" />
+      <option name="PACKAGE_NAME" value="com.aqumon.zzx.lambda.file" />
+      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.lambda.file.FileServiceTest" />
+      <option name="METHOD_NAME" value="fileHandle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -581,16 +594,16 @@
       <item itemvalue="Application.StreamParallelDemo" />
       <item itemvalue="Application.StreamForEachDemo" />
       <item itemvalue="Application.IntTest" />
-      <item itemvalue="JUnit.Version1Test.filterElectronicsSkus" />
       <item itemvalue="JUnit.VersionOneTest.filterElectronicsSkus" />
+      <item itemvalue="JUnit.FileServiceTest.fileHandle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FileServiceTest.fileHandle" />
         <item itemvalue="JUnit.VersionOneTest.filterElectronicsSkus" />
         <item itemvalue="Application.IntTest" />
         <item itemvalue="Application.StreamForEachDemo" />
         <item itemvalue="Application.StreamParallelDemo" />
-        <item itemvalue="JUnit.Version1Test.filterElectronicsSkus" />
       </list>
     </recent_temporary>
   </component>
@@ -647,7 +660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23642000" />
+    <option name="totallyTimeSpent" value="25270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -661,7 +674,7 @@
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.6976556" visible="true" weight="0.13084112" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.6976556" visible="true" weight="0.10280374" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="5" />
@@ -700,7 +713,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新注释信息" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzx/lambda/cart/SkuCategoryEnum.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/cart/SkuBooksCategoryPredicate.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/file/FileService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/cart/SkuPredicate.java" />
@@ -730,16 +742,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/cart/CartService.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/MethodReference.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/threadpool/RunTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/guava/ImmutableTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/file/FileServiceTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/resource/ResourceCloseVs.java">
@@ -763,20 +769,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/App.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/threadpool/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -985,8 +977,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/cart/SkuPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="86">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/Java/jdk1.8.0_31/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5796">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aqumon/zzx/lambda/file/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/MethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/aqumon/zzx/lambda/file/FileServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
