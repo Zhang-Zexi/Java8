@@ -7,6 +7,8 @@ import java.util.Random;
  * -XX:+UseConcMarkSweepGC -XX:CompileThreshold=1000 lee/IntTest
  * taskset -c 0-[0,1,3,7] java ...
  * @author CarpenterLee
+ *
+ *  1秒(s)=1000000 微秒(μs)
  */
 public class IntTest {
 

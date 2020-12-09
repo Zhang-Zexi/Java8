@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3459138c-96dd-4dd7-add1-8dd841ed2dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/commit/CommitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/parallel/test/ReductionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/parallel/test/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/parallel/test/IntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aqumon/zzx/parallel/test/IntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/aqumon/zzx/commit/CommitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aqumon/zzx/parallel/test/IntTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aqumon/zzx/parallel/test/IntTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/guava/MultisetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/guava/MultisetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/guava/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/guava/OptionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/lambda/MethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/lambda/MethodReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/resource/FileCopyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/resource/FileCopyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/resource/ResourceCloseVs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/resource/ResourceCloseVs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/stream/StreamOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/stream/StreamOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/stream/StreamVs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/stream/StreamVs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/QueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/ThreadVs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/threadpool/ThreadVs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/validation/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/validation/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/validation/ValidationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/aqumon/zzx/validation/ValidationTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Java8" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,9 +84,51 @@
       <recent name="D:\02-DemoWorkSpace\Java8\src\main\java\com\zzx\lambda" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamCollector.partition">
+  <component name="RunManager" selected="Application.ReductionTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.parallel.test.IntTest" />
+      <module name="Java8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aqumon.zzx.parallel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReductionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.parallel.test.ReductionTest" />
+      <module name="Java8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aqumon.zzx.parallel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.parallel.test.StringTest" />
+      <module name="Java8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aqumon.zzx.parallel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,57 +173,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamConstructor.streamFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aqumon.zzx.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aqumon.zzx.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.stream.StreamConstructor" />
-      <option name="METHOD_NAME" value="streamFromFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamOperator.allMatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aqumon.zzx.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aqumon.zzx.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.stream.StreamOperator" />
-      <option name="METHOD_NAME" value="allMatchTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamOperator.anyMatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aqumon.zzx.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aqumon.zzx.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.aqumon.zzx.stream.StreamOperator" />
-      <option name="METHOD_NAME" value="anyMatchTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -194,19 +199,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StreamOperator.allMatchTest" />
-      <item itemvalue="JUnit.StreamOperator.anyMatchTest" />
-      <item itemvalue="JUnit.StreamConstructor.streamFromFile" />
       <item itemvalue="JUnit.StreamCollector.group" />
       <item itemvalue="JUnit.StreamCollector.partition" />
+      <item itemvalue="Application.IntTest" />
+      <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.ReductionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReductionTest" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.IntTest" />
         <item itemvalue="JUnit.StreamCollector.partition" />
         <item itemvalue="JUnit.StreamCollector.group" />
-        <item itemvalue="JUnit.StreamConstructor.streamFromFile" />
-        <item itemvalue="JUnit.StreamOperator.anyMatchTest" />
-        <item itemvalue="JUnit.StreamOperator.allMatchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +302,32 @@
     <MESSAGE value="stream流线程和进程性能的对比" />
     <MESSAGE value="更新注释信息" />
     <option name="LAST_COMMIT_MESSAGE" value="更新注释信息" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1607409295874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607409295874" />
+    <state width="1493" height="110" key="GridCell.Tab.0.bottom" timestamp="1607485804112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="110" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607485804112" />
+    <state width="1493" height="110" key="GridCell.Tab.0.center" timestamp="1607485804112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="110" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607485804112" />
+    <state width="1493" height="110" key="GridCell.Tab.0.left" timestamp="1607485804112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="110" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607485804112" />
+    <state width="1493" height="110" key="GridCell.Tab.0.right" timestamp="1607485804112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="110" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607485804112" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607485305959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1607485305959" />
   </component>
   <component name="masterDetails">
     <states>
