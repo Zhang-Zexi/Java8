@@ -9,7 +9,7 @@ import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 /**
- * @author zzx
+ * @author zhang
  * 三种方法引用
  */
 public class MethodReference {
