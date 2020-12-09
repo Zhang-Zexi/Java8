@@ -16,7 +16,7 @@ public class VersionTwoTest {
                 cartSkuList, new SkuPredicate() {
                     @Override
                     public boolean test(Sku sku) {
-                        return sku.getSkuPrice() > 1000;
+                        return sku.getSkuPrice() > 2000;
                     }
                 });
 

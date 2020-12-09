@@ -14,7 +14,7 @@ public class VersionThreeTest {
         // 过滤商品单价大于1000的商品
         List<Sku> result = CartService.filterSkus(
                 cartSkuList,
-                (Sku sku) -> sku.getSkuPrice() > 1000);
+                (Sku sku) -> sku.getSkuPrice() > 2000);
 
         System.out.println(JSON.toJSONString(
                 result, true));

@@ -18,7 +18,7 @@ public class CartService {
                             4999.00, 1,
                             4999.00, SkuCategoryEnum.ELECTRONICS));
 
-                    add(new Sku(642934, "VR一体机",
+                    add(new Sku(642934, "VR设备",
                             2299.00, 1,
                             2299.00, SkuCategoryEnum.ELECTRONICS));
 
@@ -42,11 +42,11 @@ public class CartService {
                             149.00, 1,
                             149.00, SkuCategoryEnum.BOOKS));
 
-                    add(new Sku(697894, "算法",
+                    add(new Sku(697894, "大话数据结构",
                             78.20, 1,
                             78.20, SkuCategoryEnum.BOOKS));
 
-                    add(new Sku(696968, "TensorFlow进阶指南",
+                    add(new Sku(696968, "HeadFirst设计模式",
                             85.10, 1,
                             85.10, SkuCategoryEnum.BOOKS));
                 }

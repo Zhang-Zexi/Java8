@@ -8,4 +8,9 @@ public class SkuTotalPricePredicate implements SkuPredicate {
     public boolean test(Sku sku) {
         return sku.getTotalPrice() > 2000;
     }
+
+//    @Override
+//    public boolean test1(Sku sku) {
+//        return false;
+//    }
 }
