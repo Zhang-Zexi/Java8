@@ -8,6 +8,8 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * @author zhangzx
+ *
  * 不可变集合用法
  */
 public class ImmutableTest {
